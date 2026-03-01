@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJ.Oti.ProcesaNuevosExpedientes.Service", "PJ.Oti.ProcesaNuevosExpedientes.Service\PJ.Oti.ProcesaNuevosExpedientes.Service.csproj", "{4911C01F-4731-4CF6-A0F9-89A613816CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4911C01F-4731-4CF6-A0F9-89A613816CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4911C01F-4731-4CF6-A0F9-89A613816CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4911C01F-4731-4CF6-A0F9-89A613816CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4911C01F-4731-4CF6-A0F9-89A613816CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE4A632-7A30-4A9D-BC2C-D6EF61E83311}
+	EndGlobalSection
+EndGlobal
